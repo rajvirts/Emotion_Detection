@@ -62,9 +62,9 @@ python emotions.py --mode display
 ## Model Detection Results
 
 Input:
-![Screenshot (96)](https://github.com/TanishqAhirwar/EmotionDetection/assets/76032226/e8dc1134-3427-49b2-9e6b-577222903127)
+![WhatsApp Image 2023-07-05 at 12 33 34](https://github.com/rajvirts/Emotion_Detection/assets/84983975/58f9765a-c2ba-409f-a178-2d21d9aa630a)
 
 Output:
-![Screenshot (106)](https://github.com/TanishqAhirwar/EmotionDetection/assets/76032226/c576f597-d1ca-4659-8dbe-c235a11fc0fd)
+![WhatsApp Image 2023-07-05 at 12 20 02](https://github.com/rajvirts/Emotion_Detection/assets/84983975/1aaf19cf-7d07-40e9-9bd5-80698fe29454)
 
 
